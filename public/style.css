@@ -9,6 +9,9 @@ body {
     background-color:#404040;
     z-index: 5;
 }
+h1 {
+    color: white;
+}
 
 .dropdown {
     float: right;
